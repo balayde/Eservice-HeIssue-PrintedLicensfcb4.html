@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ape.beladuy.qou-se.site	TRUE	/	FALSE	1999999999	XSRF-TOKEN	eyJpdiI6Ik00NXlKRTJKYlM5VGJPYmpISjk3V3c9PSIsInZhbHVlIjoidklrbC9rYWFXbUt1eUg2bDdOWlEzZWpLSVJ6N2swcDZJeWJxTytMbi81QjhsQmVMNEF0Qmx4dzNONlkyNlgyWTM0S1FDdzJlNDdSU282NlF1QUx0K3BRcC9DTnY0QzlDanZGTnpyS21RTUtKUUxuRXAwSFNpWGw4KzZkU05aMG4iLCJtYWMiOiJiNTI0NTNkZjhkY2UxZGY3N2ZlM2UwMmRkNzRmOWNjMzlhYTFjYTlhODhjYzQwMGJlNzAzZjMwYTZjZjY5OTRmIiwidGFnIjoiIn0%3D
+ape.beladuy.qou-se.site	TRUE	/	FALSE	1999999999	bslady_session	9ahF6bNXsj2OXF0doGvTvIXjlBhR6IvoiukxTMQe
+ape.beladuy.qou-se.site	TRUE	/	FALSE	1999999999	samesite	lax
+
